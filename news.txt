@@ -10,10 +10,6 @@
 * se nao respeitar tomara Ban Permanente
 
 
-                   uso do CHAT GLOBAL
-* Aperte a letra X para poder falar no GLOBAL
-
-
                     Compra de Base/VIP
 
    Preços:
@@ -40,3 +36,30 @@
     Vip 90 Dias :
     Vip Permante :
    
+
+                   uso do CHAT GLOBAL/comandos
+* Aperte a letra X para poder falar no GLOBAL
+
+- KEY BINDS -
+
+J - Open Inventory
+L - Prone
+O - First Person Mode / Third Person Mode
+1 - Salute
+2 - Hands Up
+3 - Sit Down
+-/Middle Mouse - Interact with left side menu
+Tab - Open Scoreboard
+F2 - Encampment Panel
+F5 - Open/Close Debug Window
+F11 - Open/Close Map (if available)
+
+- COMMANDS - 
+
+/language - Changes language of game (possible values: en (English), de (German), cs (Czech), nl (Dutch),
+br (Brazilian Portuguese), zh (Chinese), es (Spanish))
+/ambience - Turn ambience on/off
+/gps - Turn gps on/off (if available)
+/compass - Turn compass on/off (if available)
+
+

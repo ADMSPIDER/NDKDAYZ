@@ -1,6 +1,5 @@
-﻿                                    
-                                     
-                                     NDKDAYZ              
+*                                                                 
+                                   NDKDAYZ              
                Regras do server 
 * Nao Usar hacker 
 * Nao pedir Itens 

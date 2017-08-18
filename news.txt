@@ -17,12 +17,23 @@
 
    Preços:
    Base Pequena Com teleporte  dentro dela :
+   30 Dias:
+   60 Dias:
+   90:Dias:
    Base Media Com teleporte  dentro dela :
+   30 Dias:
+   60 Dias:
+   90:Dias:
    Base Grande Com teleporte  dentro dela :
+   30 Dias:
+   60 Dias:
+   90:Dias:
    
    Base Normal Com Alarme Proteçao antExplosao
     Base Media:
-    
+   30 Dias:
+            
+            [V.I.P.S]
     Vip 30 Dias :
     Vip 60 Dias :
     Vip 90 Dias :

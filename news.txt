@@ -14,27 +14,19 @@
 
    Preços:
    Base Pequena Com teleporte  dentro dela :
-   30 Dias:
-   60 Dias:
-   90:Dias:
+   30 Dias:R$ 10
    Base Media Com teleporte  dentro dela :
-   30 Dias:
-   60 Dias:
-   90:Dias:
+   30 Dias:R$ 15
    Base Grande Com teleporte  dentro dela :
-   30 Dias:
-   60 Dias:
-   90:Dias:
-   
+   30 Dias:R$20
    Base Normal Com Alarme Proteçao antExplosao
     Base Media:
-   30 Dias:
+   30 Dias:R$ 25
             
             [V.I.P.S]
-    Vip 30 Dias :
-    Vip 60 Dias :
-    Vip 90 Dias :
-    Vip Permante :
+    Vip 30 Dias :R$ 15
+
+  
    
 
                    uso do CHAT GLOBAL/comandos
@@ -58,8 +50,5 @@ F11 - Open/Close Map (if available)
 
 /language - Changes language of game (possible values: en (English), de (German), cs (Czech), nl (Dutch),
 br (Brazilian Portuguese), zh (Chinese), es (Spanish))
-/ambience - Turn ambience on/off
-/gps - Turn gps on/off (if available)
-/compass - Turn compass on/off (if available)
 
 
